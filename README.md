@@ -85,14 +85,6 @@ The network infrastructure for the project is modeled as follows:
 - Data for telecom sites, hubs, and emergency centers is simulated based on hypothetical coordinates.
 - The system constructs a graph representing the entire network with all connections.
 
-## Group Members
-
-- **Haitham Ebrahim Alsaeed**\
-  Email: [g201648500@kfupm.edu.sa](mailto\:g201648500@kfupm.edu.sa)
-
-- **Hussein Ziyad**\
-  Email: [g201930570@kfupm.edu.sa](mailto\:g201930570@kfupm.edu.sa)
-
 ## Future Enhancements
 
 - **Scalability**:
@@ -109,9 +101,9 @@ The network infrastructure for the project is modeled as follows:
 
 ## License
 
-This project is part of MATH 557 coursework at King Fahd University of Petroleum and Minerals and is not intended for commercial use.
+This project is licensed under the MIT License.
 
 ---
 
-For any inquiries, please contact the group members via their provided email addresses.
+For any inquiries, please open an issue in this repository.
 
